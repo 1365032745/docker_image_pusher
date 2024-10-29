@@ -1,2 +1,3 @@
 ros
 apline
+docker pull osrf/ros:eloquent-desktop
